@@ -5,7 +5,7 @@ import random
 from department import Department
 from employee import Employee
 from review import Review
-import ipdb
+import ipdb # type: ignore
 
 
 def reset_database():
